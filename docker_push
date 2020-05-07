@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "Lm63&123" | docker login docker.io -u "luismiguelmendes" --password-stdin
+docker push luismiguelmendes/mumblebackend

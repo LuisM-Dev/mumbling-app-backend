@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1571149345786" clover="3.2.0">
+  <project timestamp="1571149345786" name="All files">
+    <metrics statements="28" coveredstatements="27" conditionals="4" coveredconditionals="4" methods="7" coveredmethods="7" elements="39" coveredelements="38" complexity="0" loc="28" ncloc="28" packages="2" files="3" classes="3"/>
+    <package name="src">
+      <metrics statements="19" coveredstatements="19" conditionals="4" coveredconditionals="4" methods="6" coveredmethods="6"/>
+      <file name="app.js" path="/Users/luismiguelmendes/Desktop/xpfarm/mumbling2/src/app.js">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+      </file>
+      <file name="mumble.js" path="/Users/luismiguelmendes/Desktop/xpfarm/mumbling2/src/mumble.js">
+        <metrics statements="13" coveredstatements="13" conditionals="4" coveredconditionals="4" methods="6" coveredmethods="6"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="7" count="24" type="stmt"/>
+        <line num="11" count="3" type="stmt"/>
+        <line num="12" count="5" type="stmt"/>
+        <line num="15" count="3" type="stmt"/>
+        <line num="16" count="10" type="cond" truecount="2" falsecount="0"/>
+        <line num="19" count="3" type="stmt"/>
+        <line num="20" count="7" type="stmt"/>
+        <line num="21" count="7" type="cond" truecount="2" falsecount="0"/>
+        <line num="26" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.routes">
+      <metrics statements="9" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="mumbling.js" path="/Users/luismiguelmendes/Desktop/xpfarm/mumbling2/src/routes/mumbling.js">
+        <metrics statements="9" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
