@@ -8,7 +8,7 @@ In the project directory, you can run:
 
 ### `npm start`
 
-Runs the app the.<br />
+Runs the app.<br />
 
 ### `npm test`
 
